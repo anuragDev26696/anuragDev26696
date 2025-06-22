@@ -81,7 +81,7 @@ Here are some of the key projects I’ve worked on:
 - Integrated APIs for multi-feature experience.  
 - Created admin-friendly dashboard to streamline operations.
 
---- -->
+---
 
 ## 🚀 Portfolio Projects
 
@@ -184,12 +184,76 @@ Here are some of the key projects I’ve worked on:
   </tr>
 </table>
 
----
+--- -->
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,nodejs,express,mongodb,nestjs,tailwind,bootstrap,git,github,figma,postman" />
+</p>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EJS-4FC08D?style=for-the-badge&logo=ejs&logoColor=black"/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-hotpink?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Highlight Repositories
+
+| Project | Description | Links |
+|--------|-------------|-------|
+| `📈 IPO Ji` | Server-side IPO platform built with EJS and JavaScript. | [🌐 Live](https://ipji.com) · [💻 Code](#) |
+| `💼 Wokari` | International job search platform with OAuth. | [🌐 Live](https://wokari.com) · [💻 Code](#) |
+| `📚 Edflik` | eLearning platform for classes, auth, and payments. | [🌐 Live](https://edflik.com) · [💻 Code](#) |
+| `🛒 Edukop` | Full-stack eCommerce app. | [🌐 Live](https://edukop.com) · [💻 Code](#) |
+| `🦷 iMentorly` | Dental platform with chat & SEO. | [🌐 Live](https://app.imentorly.com) · [💻 Code](#) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragDev26696&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragDev26696&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragDev26696&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:anuragDev26696@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anurag-kumar-verma-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anuragDev26696" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
