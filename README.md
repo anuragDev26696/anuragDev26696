@@ -230,7 +230,7 @@ Here are some of the key projects I’ve worked on:
 |--------|-------------|-------|
 | `🚲 Bounce Daily` | A rental bike mobile application for real-time bookings. | [App in Play Store](https://play.google.com/store/search?q=bounce%20daily&c=apps) |
 | `🦷 iMentorly` | Dental platform with chat & SEO. | [Go Live](https://app.imentorly.com) |
-| `📈 IPO Ji` | Server-side IPO platform built with EJS and JavaScript. | [Go Live](https://ipji.com) |
+| `📈 IPO Ji` | Server-side IPO platform built with EJS and JavaScript. | [Go Live](https://www.ipoji.com/) |
 | `💼 Wokari` | International job search platform with OAuth. | [Go Live](https://www.wokari.com) |
 | `📱 HR-Atlas` | Mobile app for attendance, payroll, and leave management. |  |
 | `📚 Edflik` | eLearning platform for classes, auth, and payments. | [Go Live](https://www.edflik.com) |
