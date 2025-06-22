@@ -1,11 +1,20 @@
-<h1 align="center">Hi 👋, I'm Anurag Kumar Verma</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India 🇮🇳</h3>
-
-<p align="center">
+<p>
   <a href="https://github.com/anuragDev26696">
     <img src="https://komarev.com/ghpvc/?username=anuragDev26696&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Kumar+Verma;Full-stack+Developer+from+India;MERN+%7C+Next.js+%7C+MongoDB;MEAN+%7C+Angular+%7C+MongoDB;Always+learning+new+things+!;">
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="60%" />
+</p>
+
+---
+
+<!--<h1 align="center">Hi 👋, I'm Anurag Kumar Verma</h1> -->
+<h3 align="center">A passionate Full Stack Web Developer from India 🇮🇳</h3>
 
 ---
 
