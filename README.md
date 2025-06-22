@@ -11,12 +11,9 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="60%" />
 </p>
 
----
-
-<!--<h1 align="center">Hi 👋, I'm Anurag Kumar Verma</h1> -->
+<h1 align="center">Hi 👋, I'm Anurag Kumar Verma</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India 🇮🇳</h3>
 
----
 
 ## 🧑‍💻 About Me
 
