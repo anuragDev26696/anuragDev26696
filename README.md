@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-⚡ I'm a passionate developer with experience in building scalable web apps using **MERN stack**, **Angular**, and **Next.js**.  
+⚡ I’m a passionate full-stack developer with hands-on experience in building scalable web and mobile applications using the **MEAN** and **MERN** stacks, along with **Next.js** for **SSR** and **Flutter** for cross-platform mobile development.
 🚀 I enjoy creating user-friendly interfaces and seamless backend solutions.  
 🌱 I'm constantly learning new technologies and refining my skills.  
 💼 I'm open to opportunities where I can contribute, grow, and innovate.
