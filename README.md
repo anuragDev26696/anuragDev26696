@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Kumar+Verma;Full-stack+Developer+from+India;MERN+%7C+Next.js+%7C+MongoDB;Always+learning+new+things+!;MEAN+%7C+Angular+%7C+MongoDB;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Kumar+Verma;Full-stack+Developer+from+India;MERN+%7C+Next.js+%7C+MongoDB;MEAN+%7C+Angular+%7C+MongoDB;Always+learning+new+things+!;">
 </p>
 
 <p align="center">
