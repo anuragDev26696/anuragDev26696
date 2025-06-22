@@ -18,6 +18,174 @@
 
 ---
 
+## 🚀 Portfolio Projects
+
+Here are some of the key projects I’ve worked on:
+
+### 🔹 Bounce Daily — A Rental Bike Mobile Application
+**Tech:** Flutter, Dart, Riverpod, Razorpay, Google Map  
+- Developed core business logic and third-party integrations (Google Map, Aadhaar, Razorpay).
+- Handled API integration and verification workflows.
+
+---
+
+### 🔹 iMentorly — Dental Clinic Platform
+**Tech:** Angular 17, RxJS, Angular Material  
+- Built a real-time doctor chat system using CometChat.  
+- Managed third-party APIs and SEO optimization strategies.  
+- Delivered scalable, high-performance Angular components.
+
+---
+
+### 🔹 Wokari — Job Search Application
+**Tech:** Angular 17, Bootstrap, RxJS  
+- Created advanced search filters and intuitive UX for global job seekers.  
+- Integrated LinkedIn and Google OAuth login.  
+- Applied SEO and responsive design best practices.
+
+---
+
+### 🔹 IPO Ji — IPO Info Platform
+**Tech:** EJS, JavaScript, Bootstrap  
+- Improved page speed by 30% through SSR and frontend optimization.  
+- Implemented SEO-focused architecture using EJS templating.
+
+---
+
+### 🔹 HR-Atlas — Mobile HR Management System
+**Tech:** Angular 14, Ionic, Node.js, MongoDB  
+- Built mobile UI/UX for attendance, payroll, leave tracking.  
+- Integrated backend APIs for real-time data and reporting.
+
+---
+
+### 🔹 Edflik — E-Learning Application
+**Tech:** Angular 14, Angular Material, Bootstrap  
+- Built role-based access (teacher, student, moderator).  
+- Integrated Facebook/Google login and secure payments.  
+- Led SEO for organic growth.
+
+---
+
+### 🔹 Edukop — E-commerce Platform
+**Tech:** Angular 14, Node.js, Express.js, MongoDB  
+- Designed and built full frontend + backend independently.  
+- Integrated Google Sign-In, payment gateway.  
+- Improved conversion by 25% with UX/UI enhancements.
+
+---
+
+### 🔹 Linsero — Super App (Social, Jobs, Health, E-commerce)
+**Tech:** Angular 13, Ionic, Node.js, MongoDB  
+- Designed mobile UI with responsive layout.  
+- Integrated APIs for multi-feature experience.  
+- Created admin-friendly dashboard to streamline operations.
+
+---
+
+## 🚀 Portfolio Projects
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🚲 Bounce Daily</h3>
+      <p>A rental bike mobile application for real-time bookings, payments, and verification.</p>
+      <ul>
+        <li>🔧 Flutter, Dart, Riverpod</li>
+        <li>💳 Razorpay, Aadhaar verification API</li>
+        <li>🗺️ Google Maps integration</li>
+      </ul>
+      <a href="#" target="_blank">🌐 Live Demo</a> | <a href="#" target="_blank">💻 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🦷 iMentorly</h3>
+      <p>Dental clinic platform with chat, case management, and SEO optimization.</p>
+      <ul>
+        <li>🔧 Angular 17, RxJS, SCSS</li>
+        <li>💬 Real-time CometChat</li>
+        <li>📈 SEO & Performance optimization</li>
+      </ul>
+      <a href="https://app.imentorly.com" target="_blank">🌐 Live Demo</a> | <a href="#" target="_blank">💻 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>💼 Wokari</h3>
+      <p>Job search app connecting global talent to international opportunities.</p>
+      <ul>
+        <li>🔧 Angular 17, Bootstrap</li>
+        <li>🔐 Google & LinkedIn OAuth</li>
+        <li>📱 Fully responsive + SEO ready</li>
+      </ul>
+      <a href="https://www.wokari.com" target="_blank">🌐 Live Demo</a> | <a href="#" target="_blank">💻 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>📈 IPO Ji</h3>
+      <p>An SSR-enabled platform to track IPO opportunities with blazing fast performance.</p>
+      <ul>
+        <li>🔧 EJS, JavaScript, Bootstrap</li>
+        <li>⚡ Server-Side Rendering</li>
+        <li>📊 Fast load & SEO performance</li>
+      </ul>
+      <a href="https://www.ipji.com" target="_blank">🌐 Live Demo</a> | <a href="#" target="_blank">💻 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>📱 HR-Atlas</h3>
+      <p>Mobile app for attendance, payroll, and leave management.</p>
+      <ul>
+        <li>🔧 Ionic, Angular 14, Node.js</li>
+        <li>🧠 Real-time tracking APIs</li>
+        <li>📐 Optimized UX/UI</li>
+      </ul>
+      <a href="#" target="_blank">🌐 Live Demo</a> | <a href="#" target="_blank">💻 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>📚 Edflik</h3>
+      <p>An e-learning platform for moderated virtual classes with payments.</p>
+      <ul>
+        <li>🔧 Angular 14, Angular Material</li>
+        <li>🎯 Role-based access</li>
+        <li>💳 Payment + Social login</li>
+      </ul>
+      <a href="https://www.edflik.com" target="_blank">🌐 Live Demo</a> | <a href="#" target="_blank">💻 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🛒 Edukop</h3>
+      <p>Fully functional e-commerce web app with optimized user flow.</p>
+      <ul>
+        <li>🔧 Angular 14, Node.js, MongoDB</li>
+        <li>🧾 Secure checkout & auth</li>
+        <li>⚡ Conversion-focused UI</li>
+      </ul>
+      <a href="https://www.edukop.com" target="_blank">🌐 Live Demo</a> | <a href="#" target="_blank">💻 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🌐 Linsero</h3>
+      <p>A social-commerce-healthcare-job multi-platform “Super App”.</p>
+      <ul>
+        <li>🔧 Angular 13, Ionic, Node.js</li>
+        <li>🧠 Multi-domain integration</li>
+        <li>📱 Mobile-first design</li>
+      </ul>
+      <a href="#" target="_blank">🌐 Live Demo</a> | <a href="#" target="_blank">💻 Code</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -62,20 +230,3 @@
 ## 😂 Fun Developer Joke
 
 ```md
-Q: How do you tell HTML from HTML5?  
-A: Try it out in Internet Explorer. If it doesn’t work, it’s HTML5.
-
-<!--
-**anuragDev26696/anuragDev26696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
