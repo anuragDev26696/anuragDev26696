@@ -17,7 +17,7 @@
 💼 I'm open to opportunities where I can contribute, grow, and innovate.
 
 ---
-
+<!--
 ## 🚀 Portfolio Projects
 
 Here are some of the key projects I’ve worked on:
@@ -81,7 +81,7 @@ Here are some of the key projects I’ve worked on:
 - Integrated APIs for multi-feature experience.  
 - Created admin-friendly dashboard to streamline operations.
 
----
+--- -->
 
 ## 🚀 Portfolio Projects
 
